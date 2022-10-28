@@ -1,3 +1,6 @@
+//I, Noe Puna, 000781646, I acknowledge that this my own work and no other
+// person's work has been copied without acknowledgement.
+
 // COMP-10184 – Mohawk College 
 // PIR Sensor Test Application 
 // Turn on the blue LED with motion is detected. 
